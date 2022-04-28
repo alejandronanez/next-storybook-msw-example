@@ -31,7 +31,8 @@
     "eslint-config-next": "12.1.5",
     "jest": "^27.5.1",
     "msw": "^0.38.2",
-    "msw-storybook-addon": "^1.6.3"
+    "msw-storybook-addon": "^1.6.3",
+    "prettier": "^2.6.2"
   },
   "msw": {
     "workerDirectory": "public"
