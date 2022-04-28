@@ -1,4 +1,4 @@
-import { initialize, mswDecorator } from 'msw-storybook-addon';
+import { initialize, mswDecorator } from "msw-storybook-addon";
 
 initialize();
 
@@ -10,7 +10,7 @@ export const parameters = {
       date: /Date$/,
     },
   },
-}
+};
 
 // Provide the MSW addon decorator globally
 export const decorators = [mswDecorator];
