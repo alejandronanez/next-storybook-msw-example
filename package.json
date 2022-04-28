@@ -23,8 +23,14 @@
     "@storybook/addon-links": "^6.4.22",
     "@storybook/react": "^6.4.22",
     "@storybook/testing-library": "^0.0.11",
+    "@storybook/testing-react": "^1.2.4",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^12.1.5",
     "babel-loader": "^8.2.5",
     "eslint": "8.14.0",
-    "eslint-config-next": "12.1.5"
+    "eslint-config-next": "12.1.5",
+    "jest": "^27.5.1",
+    "msw": "^0.38.2",
+    "msw-storybook-addon": "^1.6.3"
   }
 }
