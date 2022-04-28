@@ -9,7 +9,7 @@ export function Example() {
       );
       setName(result.name);
     } catch (e) {
-      setName("Something bad happen, try again");
+      setName("Something bad happened, try again", e.message);
     }
   }
 
